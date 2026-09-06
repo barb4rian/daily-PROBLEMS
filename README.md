@@ -11,6 +11,7 @@
 | [0070-climbing-stairs](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0120-triangle/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
@@ -363,6 +364,7 @@
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
