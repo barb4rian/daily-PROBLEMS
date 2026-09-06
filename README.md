@@ -225,6 +225,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
