@@ -23,6 +23,7 @@
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1140-stone-game-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1301-number-of-paths-with-max-score) |
@@ -367,6 +368,7 @@
 | [0097-interleaving-string](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0139-word-break) |
+| [0940-distinct-subsequences-ii](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/barba4ian/daily-PROBLEMS/tree/main/1032-stream-of-characters/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/barb4rian/daily-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
