@@ -215,6 +215,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0069-sqrtx) |
@@ -507,6 +508,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/barb4rian/daily-PROBLEMS/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0060-permutation-sequence/) | Hard |
 | [0486-predict-the-winner](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
