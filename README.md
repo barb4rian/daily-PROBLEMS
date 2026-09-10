@@ -449,6 +449,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/barb4rian/daily-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/barba4ian/daily-PROBLEMS/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -633,6 +634,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -641,6 +643,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/barba4ian/daily-PROBLEMS/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/barba4ian/daily-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Aho–Corasick Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
